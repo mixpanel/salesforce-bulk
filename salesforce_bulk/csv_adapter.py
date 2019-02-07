@@ -1,4 +1,4 @@
-import unicodecsv as csv
+import csv
 from cStringIO import StringIO
 
 class CsvDictsAdapter(object):
